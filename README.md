@@ -1,6 +1,6 @@
 # Chat-si: Real-time Chat Application
 
-Welcome to **Chat-si**, a real-time chat application built with **React** on the frontend and **Node.js** with **Socket.io** on the backend. This project enables seamless real-time messaging between users, providing a great learning experience on how to implement WebSockets using Socket.io.
+**Chat-si**, a real-time chat application built with **React** on the frontend and **Node.js** with **Socket.io** on the backend. This project enables seamless real-time messaging between users, providing a great learning experience on how to implement WebSockets using Socket.io.
 
 ## Overview
 Chat-si is designed to allow users to send and receive messages in real time. By the end of this project, you'll have a solid understanding of how to:
