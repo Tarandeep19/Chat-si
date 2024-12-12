@@ -28,7 +28,7 @@ To run this application, make sure you have the following installed on your mach
 Clone the repository to your local machine by running the following command in your terminal:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Tarandeep19/Chat-si
 ```
 
 ### 2. Install dependencies
